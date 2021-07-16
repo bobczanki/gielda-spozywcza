@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189488897960",
+    "firebase_url": "https://e-market-19b83.firebaseio.com",
+    "project_id": "e-market-19b83",
+    "storage_bucket": "e-market-19b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189488897960:android:c697ae6a93d8a492",
+        "android_client_info": {
+          "package_name": "com.bobczanki.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189488897960-s6o91ivoeh0v1jj0o7nuguqt9t21narr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiSuBqzvh_5fuOgKmEJbUkR3ktFBieNEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189488897960-s6o91ivoeh0v1jj0o7nuguqt9t21narr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
